@@ -1,0 +1,24 @@
+# Blender MTL File: 'shapeMatchRunnerPrototype.blend'
+# Material Count: 2
+
+newmtl bridge.002
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.023648 0.023648 0.023648
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\mohamibr\\Documents\\Allegorithmic\\Substance Painter\\export\\props\\bridge1_bridge_BaseColor.png
+
+newmtl platform3
+Ns 0.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 1
+map_Kd C:\\Users\\mohamibr\\Documents\\Allegorithmic\\Substance Painter\\export\\props\\platform2_DefaultMaterial_BaseColor.png

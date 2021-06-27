@@ -1,0 +1,47 @@
+
+runner.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+cannonButton
+  rotate: false
+  xy: 1, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+circleButton
+  rotate: false
+  xy: 1, 259
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+polygonButton
+  rotate: false
+  xy: 259, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+squareButton
+  rotate: false
+  xy: 1, 1
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+starButton
+  rotate: false
+  xy: 259, 259
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+triangleButton
+  rotate: false
+  xy: 517, 517
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

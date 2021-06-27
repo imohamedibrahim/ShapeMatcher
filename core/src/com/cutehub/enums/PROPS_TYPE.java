@@ -1,0 +1,5 @@
+package com.cutehub.enums;
+
+public enum PROPS_TYPE {
+    POSTBOX, TREE1, TREE2, SIGNBOARD, DUSTBIN1, SEAT, FENCE, FLOWERBASE, DUSTBIN2, LAMP1
+}
